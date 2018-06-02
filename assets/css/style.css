@@ -70,3 +70,7 @@ h1 {
 .card {
     margin: 10px;
 }
+
+.navbar-collapse {
+    text-align: right;
+}
